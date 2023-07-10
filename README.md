@@ -22,7 +22,7 @@ alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/al
 
 ## yabai
 
-|-|-|
 | 快捷键 | 命令 |
+|-|-|
 | Command + n | 新建当前窗口 |
 | Control + d | 删除当前窗口 |
