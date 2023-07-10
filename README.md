@@ -24,5 +24,5 @@ alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/al
 
 |-|-|
 | 快捷键 | 命令 |
-|command + n | 新建当前窗口 |
-Control + d | 删除当前窗口 |
+| Command + n | 新建当前窗口 |
+| Control + d | 删除当前窗口 |
