@@ -29,3 +29,5 @@ alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/al
 | Shift + alt + r | 旋转窗口 |
 | Shift + alt + y | 以 Y轴 旋转 |
 | Shift + alt + x | 以 X轴 旋转 |
+| Shift + alt + p | 移动窗口到 prev panel |
+| Shift + alt + n | 移动窗口到 next panel |
