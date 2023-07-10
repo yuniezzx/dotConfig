@@ -17,3 +17,10 @@ neovim 具体信息连接  [Link ](https://github.com/yuniezzx/dotConfig/tree/ma
 ## Alacritty 
 
 alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/alacritty-theme) 处下载。
+
+
+
+## yabai
+
+command + n 新建当前窗口
+Control + d 山春当前窗口
