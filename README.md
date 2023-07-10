@@ -23,6 +23,6 @@ alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/al
 ## yabai
 
 |-|-|
-|-|-|
-|command + n 新建当前窗口
-Control + d 山春当前窗口
+| 快捷键 | 命令 |
+|command + n | 新建当前窗口 |
+Control + d | 删除当前窗口 |
