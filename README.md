@@ -26,3 +26,6 @@ alacritty 的主题 需要从 [ alacritty-theme](https://github.com/alacritty/al
 |-|-|
 | Command + n | 新建当前窗口 |
 | Control + d | 删除当前窗口 |
+| Shift + alt + r | 旋转窗口 |
+| Shift + alt + y | 以 Y轴 旋转 |
+| Shift + alt + x | 以 X轴 旋转 |
